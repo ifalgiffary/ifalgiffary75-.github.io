@@ -1,0 +1,128 @@
+body{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.header{ 
+	background: linear-gradient(to right, #696F70, #383C3C);
+	height: 100px;
+	width: 1366px;
+	margin-top: -23px;		
+}
+
+
+h1{
+	padding: 20px;
+	font-family: "arial";
+	color: white;
+	margin-left: 10px;
+	margin-top: -55px;
+}
+
+.header img{
+	height: 30px;
+	margin-top: 45px;
+	margin-left: 1300px;
+}
+
+.header img:hover{
+	cursor: pointer;
+}
+
+h4{
+	margin-top: 20px;
+	margin-left: 6px;
+	color: white;
+	font-family: "arial";
+	font-size: 15px;
+}
+
+.header ul {
+	list-style-type: none;
+	margin-top: -12px;
+	padding: 5px;
+	padding right: -10px;
+
+	
+}
+
+.header ul li{
+	margin-right: 23px;
+	font-size: 20px;
+	font-family: "arial";
+	margin-top: 30px;
+
+}
+
+.header a{
+	text-decoration: none;
+	color: #fff;
+	padding: 20px;
+}
+
+.header a:hover{
+	background-color: #06132B;
+	color: white;
+	border-radius: 3px;
+	width: 50px;
+
+}
+
+.kiri{
+	background: linear-gradient(to top, #0C2454, #06132B);
+	height: 580px;
+	width: 200px;
+	margin-top: -250px;
+	
+	
+}
+
+.box{
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+	border-radius: 10px;
+	margin-left: 220px;
+	margin-top: -550px;
+	height: 535px;
+	width: 1120px;
+
+}
+
+.box p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 35px;
+}
+
+.boxes{
+	background: url(icon1.png);
+	background-size: 50px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 15px;
+	margin-left: 250px;
+	margin-top: -450px;
+	height: 100px;
+	width: 150px;
+
+}
+
+.boxes p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 13px;
+	margin-left: 45px;
+	margin-top: 80px;
+}
+
+.boxes p:hover{
+	cursor: pointer;
+}
